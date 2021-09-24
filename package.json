@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "exectimer": "^2.2.2"
+  },
+  "name": "node-basic-blockchain",
+  "version": "1.0.0",
+  "description": "A very basic implementation of a blockchain structure",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Leonardo Vidal",
+  "license": "MIT"
+}
